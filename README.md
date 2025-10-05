@@ -1,2 +1,3 @@
-# umwc-projekt-48794
-Repozytorium projektu
+ # Projekt UMwC
+
+Projekt GitHub z włączeniuem workflow i GitHub Actions 🚀
